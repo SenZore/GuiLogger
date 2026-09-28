@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.senzore.logrecord.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["ConnectionMixin", "GuiMixin", "GuiTextAccessor", "ContainerScreenAccessor"],
+  "injectors": { "defaultRequire": 1 }
+}
